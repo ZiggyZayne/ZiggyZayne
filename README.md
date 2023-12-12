@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiggyZayne
-- 👀 I’m interested in front end web design and I dabble in python!
-- 🌱 I’m currently learning js, css, and html
+- 👀 I’m interested in Data Analysis!
+- 🌱 I’m currently learning Python Libraries like Pandas, MatPlotLib, and NumPy, as well as Power BI, Tableau, SQL, and Excel!
 - 💞️ I’m looking to collaborate on learning resources and the coding process!
 - 📫 How to reach me ZayneLockhartVO@gmail.com!
 
